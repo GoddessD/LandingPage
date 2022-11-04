@@ -1,4 +1,6 @@
 import React from "react";
+const Home=()=>{
+return (
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
